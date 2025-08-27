@@ -1,2 +1,2 @@
 # my-first-repository
-hey! welcome to all. This is my first Repository and i am so excited.
+hey! Welcome to all. This is my first Repository, and I am so excited to dive deep into it.
